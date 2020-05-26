@@ -1,2 +1,2 @@
 # Game-ESCAPE-BY-MULTIPLICATION-
-An educational projects for children, used C++;
+An educational projects for beginners, used C++;
